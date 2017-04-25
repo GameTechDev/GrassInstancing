@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GUIControls>
+  <AppSettings>
+    <AppName>Grass</AppName>
+    <AbsolutePath>H:\Work\</AbsolutePath>
+  </AppSettings>
+  <SliderBars>
+    <SliderBar>
+      <id>grass_slider</id>
+      <Text>Grass Density</Text>
+    </SliderBar>
+  </SliderBars>
+  <CheckBoxes>
+    <CheckBox>
+      <width>150</width>
+      <height>20</height>
+      <Text>Instanced</Text>
+    </CheckBox>
+    <CheckBox>
+      <width>150</width>
+      <height>20</height>
+      <Text>Batched </Text>
+    </CheckBox>
+    <CheckBox>
+      <width>150</width>
+      <height>20</height>
+      <Text>None</Text>
+    </CheckBox>
+  </CheckBoxes>
+</GUIControls>
